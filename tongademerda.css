@@ -1,63 +1,33 @@
-body{
+body {
     margin: 0;
     padding: 0;
     background: url('https://i.pinimg.com/originals/52/e6/76/52e676f7a539f3da110e512234bc4303.gif');
 }
-.feliz-vida{
+
+.feliz-vida {
     width: 100%;
     float: left;
     display: flex;
     justify-content: center;
 }
-.feliz-vida p{
+
+.feliz-vida p {
     font: 95px sans-serif;
     color: #ffcbdb;
 }
-.quadrado-mini-fotos{
-    width: 100%;
-    float: left;
-    margin: 47px 0 0;
-}
-.quadrado-mini-fotos .minift{
-    margin: 0 20px 0 80px;
-    float: right;
-    display: flex;
-    gap: 20px 35px;
-    flex-wrap: wrap;
-    max-width: 680px;
-}
-.quadrado-mini-fotos .minift .foto{
-    width: 320px;
-    height: 180px;
-    margin: 0;
-    background: cyan;
-}
-.quadrado-mini-fotos .minift .foto.f1{
-    background: url('https://drive.google.com/file/d/1_hj7go1Lt1ofLHoxCZEjiBYp7Iz3v9bz/view') no-repeat center;
-    background-size: contain;
-}
-.quadrado-mini-fotos .minift .foto.f3{
-    background: url('https://media.tenor.com/nlSDG33ptOoAAAAC/geto-suguru.gif') no-repeat center center;
-    background-size: contain;
-}
-.gifsug{
-    width: 320px;
-    height: 180px;
-    float: left;
-    padding: 5px;
-}
-.video{
+
+.video {
     text-align: center;
 }
-.video iframe
-   
-.gifs{
+
+.gifs {
     width: 100%;
     float: left;
     display: flex;
     justify-content: center;
 }
-.gifs .gift{
+
+.gifs .gift {
     margin: 20px 20px 0 0;
     float: right;
     display: flex;
@@ -65,51 +35,12 @@ body{
     flex-wrap: wrap;
     max-width: 100%;
 }
-.gifs .gift .gif{
+
+.gifs .gift .gif {
     width: 1370px;
     height: 180px;
     margin: 0;
     background: cyan;
-}
-.gifs .gift .gif.g1{
-    background: url('https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif');
-}
-.gifs .gift .gif.g2{
     background: url('https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif');
     background-size: contain;
-}
-.gifs .gift .gif.g3{
-    background: url('https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif');
-    background-size: contain;
-}
-.gifs .gift .gif.g4{
-    background: url('https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif');
-    background-size: contain;
-}
-.gifs .gift .gif.g5{
-    background: url('https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif');
-    background-size: contain;
-}
-.text .text-i p{
-    font: 18px mv-boli;
-    color: #dc3b6c;
-}
-.text .text-i p{
-    width: 50%;
-}
-.text h1{
-    width: 100%;
-    float: left;
-    display: flex;
-    justify-content: center;
-}
-.text h1{
-    font: 98px mv-boli;
-    color: #9f0231;
-}
-
-.text-i {
-    display: flex;
-    justify-content: space-evenly;
-    width: 100%;
 }
